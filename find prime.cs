@@ -1,3 +1,4 @@
+//primeornot
 public string PrimeOrNot(int num)   
 {   
    int i = 0;   
